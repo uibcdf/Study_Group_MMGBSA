@@ -1,2 +1,2 @@
-# Study_Group_MMGBSA
+# Study Group MMGBSA
 MMGBSA Study Group
