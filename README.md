@@ -51,7 +51,7 @@ and in two years of digging in a topic?
 One last thing. This is far from being a shelf help guide. You can read about the following two empiric principles:
 
 - Hofstadter's Law: "It always takes longer than you expect, even when you take into account Hofstadter's Law".
-- Paretos Law: "80% of consequences come from 20% of the causes". Or, "20% of consequences come from 80% of the causes". Which means that 80% of your time and effort will produce only the 20% of your results.
+- Paretos Law: "80% of consequences come from 20% of the causes". Which means that 80% of your time and effort will produce only the 20% of your results.
 
 And you can think: 'Aha... now that I know, I can do better'. Ok, let us tell you something. Let us dare to share with you a last piece of wisdom: no, you can't.
 
