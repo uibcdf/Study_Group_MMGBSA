@@ -42,6 +42,9 @@ Is this your first research work? If you are at the begining of your scientific 
 - Spend 10 minutes in internet looking for what the "Dunning-Kruger effect" is. Did you
   understand the plot confidence vs. knowledge? Where are you now? Where will you be in two weeks,
 and in two years of digging into a topic?
+- If you walk 1000 steps and just one, just a single step, any one, was random, you will have no idea where
+  you are at the end of your walk. Do not guess anything. Do not assume anything. Do not advance in your research with out understanding every
+move you did, every mistake or success you made.
 - Enjoy learning. Enjoy suffering too.
 - Don't be hasty.
 - If you think everything is simple, be 95% sure you didn't understand a word.
