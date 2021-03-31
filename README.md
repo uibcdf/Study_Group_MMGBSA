@@ -5,7 +5,7 @@ months about predicting the binding free energy of interacting biomolecules by m
 
 Some rules to be all on the same page:
 
-- Papers will be named with a key string made up of the family name of the first author, the
+- Papers will be named with a key string made up of the first author's family name, the
   publication year, and the first word of the title. For instance, the paper entitled "Why me?"
 written by John Doe and published in 2020 will be referred to hereinafter as 'Doe2020Why'.
 
@@ -31,7 +31,7 @@ Is this your first research work? If you are at the begining of your scientific 
   check every reference in your first paper.
 - Write down in your list new questions and doubts. Long term, having many doubts it is more
   effective than having a lot of answers.
-- Work first week building a good and consistent structure of doubts.
+- Work first building a good and consistent structure of doubts.
 - Work later in having a good and consistent conceptual story covering all your doubts. Fill the gaps reading, searching and thinking, as if it were a detective work. The mist will vanish with time.
 - You will probably have hundreds of ideas: Why this question was not approached? Why this is not
   done? What would happen if...? Write down all these ideas, they are gold, they can be the seed of your future scientific contributions.
