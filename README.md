@@ -41,7 +41,7 @@ Is this your first research work? If you are at the begining of your scientific 
   start a scientific career?
 - Spend 10 minutes in internet looking for what the "Dunning-Kruger effect" is. Did you
   understand the plot confidence vs. knowledge? Where are you now? Where will you be in two weeks,
-and in two years of digging in a topic?
+and in two years of digging into a topic?
 - Enjoy learning. Enjoy suffering too.
 - Don't be hasty.
 - If you think everything is simple, be 95% sure you didn't understand a word.
