@@ -48,7 +48,7 @@ and in two years of digging in a topic?
 - If you are not enjoying when concepts begin to fall into place, maybe being a scientist won't make you happy.
 - If you are not enjoying when you realize that what made sense yesterday doesn't make sense today, maybe being a scientist won't make you happy.
 
-One last thing. This is far from being a shelf help guide. You can read about the following two empiric principles:
+One last thing. This section is far from being a shelf help guide. You can read about the following two empiric principles:
 
 - Hofstadter's Law: "It always takes longer than you expect, even when you take into account Hofstadter's Law".
 - Paretos Law: "80% of consequences come from 20% of the causes". Which means that 80% of your time and effort will produce only the 20% of your results.
