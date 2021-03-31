@@ -2,7 +2,7 @@
 
 ## 1st week
 
-- Cournia, Zoe, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, and Woody Sherman. "Rigorous free energy simulations in virtual screening." Journal of Chemical Information and Modeling 60, no. 9 (2020): 4153-4169.
+- [Cournia2020Rigorous] Cournia, Zoe, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, and Woody Sherman. "Rigorous free energy simulations in virtual screening." Journal of Chemical Information and Modeling 60, no. 9 (2020): 4153-4169.
 
 - de Ruiter, Anita, and Chris Oostenbrink. "Advances in the calculation of binding free energies." Current opinion in structural biology 61 (2020): 207-212.
 

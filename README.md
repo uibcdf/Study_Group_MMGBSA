@@ -6,7 +6,7 @@ months of the topic: predicting the binding free energy of interacting biomolecu
 Some rules to be all on the same page:
 
 - Papers will be named with a key string made up of the family name of the firs author, the
-  publication year and the first work of the title. For instance, the paper entitled "Why me?"
+  publication year and the first work of the title -all lowercase-. For instance, the paper entitled "Why me?"
 written by John Doe and published in 2020 will be referred to hereinafter as 'Doe2020Why'.
 
 - The papers' list found in the file 'HISTORY.md' is a tentative guide. Week by week the file has
@@ -15,7 +15,7 @@ written by John Doe and published in 2020 will be referred to hereinafter as 'Do
 - This is a private repository. Don't by shy sharing ideas and doubts either in the issues board or
   in the discussions area. It is good to have a written history of the learning process.
 
-- Put a copy of the pdf versions of the papers in the directory 'papers'.
+- Include the bibtex bibliography reference of every read paper in the file 'bibliography.tex'.
 
 - After reading a paper, use the file 'NOTES.md' to write a three lines abstract togeter with some useful thoughts for your future you. Write also some keywords to tag the paper.
 
