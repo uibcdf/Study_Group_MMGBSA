@@ -47,7 +47,9 @@ and in two years of digging into a topic?
 move you did, every mistake or success you made.
 - Enjoy learning. Enjoy suffering too.
 - Don't be hasty.
-- If you think everything is simple, be 95% sure you didn't understand a word.
+- If, from the beginning, you think everything is simple, be 80% sure you didn't understand a word.
+- If after being lost in the mist for along time, working hard to get some clarity, you come up
+  with what you think is a too simple solution to be comunicated, be 80% sure you did a good job.
 - If you are not enjoying when concepts begin to fall into place, maybe being a scientist won't make you happy.
 - If you are not enjoying when you realize that what made sense yesterday doesn't make sense today, maybe being a scientist won't make you happy.
 
