@@ -40,8 +40,8 @@ Is this your first research work? If you are at the begining of your scientific 
 - Look for the meaning of the spanish word "adanismo". Do you really think is a good attitude to
   start a scientific career?
 - Spend 10 minutes in internet looking for what the "Dunning-Kruger effect" is. Did you
-  understand the plot confidence vs. knowledge? Where are you now? Where will you be in two weeks,
-and in two years of digging into a topic?
+  understand the plot confidence vs. knowledge? Where are you now? Where are you going to be in two weeks,
+and in two years of digging into this topic?
 - If you walk 1000 steps and just one, just a single step, any one, was random, you will have no idea where
   you are at the end of your walk. Do not guess anything. Do not assume anything. Do not advance in your research with out understanding every
 move you did, every mistake or success you made.
@@ -49,7 +49,7 @@ move you did, every mistake or success you made.
 - Don't be hasty.
 - If, from the beginning, you think everything is simple, be 80% sure you didn't understand a word.
 - If after being lost in the mist for along time, working hard to get some clarity, you come up
-  with what you think is a too simple solution to be comunicated, be 80% sure you did a good job.
+  with what you think is a too simple idea to be comunicated, be 80% sure you did a good job.
 - If you are not enjoying when concepts begin to fall into place, maybe being a scientist won't make you happy.
 - If you are not enjoying when you realize that what made sense yesterday doesn't make sense today, maybe being a scientist won't make you happy.
 
