@@ -12,7 +12,7 @@ written by John Doe and published in 2020 will be referred to hereinafter as 'Do
 - The papers' list found in the file 'HISTORY.md' is a tentative guide. Week by week the file has
   to be updated to keep track of the real reading record.
 
-- This is a private repository. Don't by shy sharing ideas and doubts either in the issues board or
+- This is a private repository. Don't be shy sharing ideas and doubts either in the issues board or
   in the discussions area. It is good to have a written history of the learning process.
 
 - Include the bibtex bibliography reference of every read paper in the file 'bibliography.tex'.
