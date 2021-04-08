@@ -29,7 +29,7 @@ Is this your first research work? If you are at the begining of your scientific 
 - The main purpose of this exercise is understanding, not just knowing.
 - Keep in mind from day one the open questions you already have. Be smart to indentify where the
   answers could be from the first paper you read.
-- Do not feel overwhelmed the first days, running crazy after every single doubt. Don't try to
+- Do not feel overwhelmed the first days. Avoid running crazy after every single doubt. Don't try to
   check every reference in your first paper.
 - Write down in your list new questions and doubts. Long term, having many doubts it is more
   effective than having a lot of answers.
