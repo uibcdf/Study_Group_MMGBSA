@@ -5,6 +5,12 @@ months about predicting the binding free energy of interacting biomolecules by m
 
 Some rules to be all on the same page:
 
+- The papers' list found in the file 'Name-of-student.md' is a tentative guide with a list of papers to be read in order. Week by week the file has
+  to be updated if additional papers were read.
+
+- After reading a document, the student will open a new issue in this repository with the corresponding document-keyword as title. The body of the first post in the issue will contain the bibligraphic reference together with three or four lines giving a breaf summary with those ideas the student wants to highlight.
+After that, tags will be attached to the issue with those words describing the work reported in the document.
+
 - Papers, proceedings and book chapters will be named with a key string made up of the first author's family name, the
   publication year, the first word of the title, and an underscore followed by the first and last characters of the
 string after the last "/" symbol in the DOI. For instance, the paper entitled "Why me?"
@@ -18,16 +24,8 @@ a similar way (first and last character from the ID numbers after the '.' symbol
   author's family name and the publicacion year. This way, the thesis written by John Doe in the
 year 2020 will be referred as 'Thesis:Doe2020'.
 
-- The papers' list found in the file 'HISTORY.md' is a tentative guide. Week by week the file has
-  to be updated if additional papers were read.
-
 - Don't be shy to share ideas and doubts either in the issues board or
   in the discussions area. It is good to have a written history of the learning process.
-
-- After reading a document, open a new issue in this repository with the its keyword as title
-  and three or four lines giving a breaf summary the paper with those ideas you want to highlight.
-After that, tag the issue with those words that describe the document.
-
 
 ## Tips for the young researcher.
 
