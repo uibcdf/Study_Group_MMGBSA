@@ -5,7 +5,7 @@ months about predicting the binding free energy of interacting biomolecules by m
 
 Some rules to be all on the same page:
 
-- The papers' list found in the file 'Name-of-student.md' is a tentative guide with a list of papers to be read in order. Week by week the file has
+- The file 'Name-of-student.md' has a tentative guide with a list of papers to be read in order. Week by week the file has
   to be updated if additional papers were read.
 
 - After reading a document, the student will open a new issue in this repository with the corresponding document-keyword as title. The body of the first post in the issue will contain the bibligraphic reference together with three or four lines giving a breaf summary with those ideas the student wants to highlight.
