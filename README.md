@@ -5,21 +5,28 @@ months about predicting the binding free energy of interacting biomolecules by m
 
 Some rules to be all on the same page:
 
-- Papers will be named with a key string made up of the first author's family name, the
-  publication year, and the first word of the title. For instance, the paper entitled "Why me?"
-written by John Doe and published in 2020 will be referred to hereinafter as 'Doe2020Why'. In case
-there are more than a paper with the same surname, year and first word of the title, the first
-page number will be added at the end: 'Doe2020Why66'.
+- Papers, proceedings and book chapters will be named with a key string made up of the first author's family name, the
+  publication year, the first word of the title, and an underscore followed by the first and last characters of the
+string after the last "/" symbol in the DOI. For instance, the paper entitled "Why me?"
+written by John Doe, published in 2020 with DOI "10.137/journal.x.30522" will be referred to hereinafter as 'Doe2020Why_j2'.
+
+- Preprints deposited in the arXiv will have a key as if they were a published paper. But instead
+  of taking the last two characters of the key from the DOI, they will come from the arxiv ID in
+a similar way (first and last character from the ID numbers after the '.' symbol). As such, the preprint entitled "Why you?" written by John Doe in 2020 with the id arXiv:1501.05235 will be denoted as 'Doe2020Why_05'.
+
+- Thesis will be named with a key string consisting of the string "Thesis:" followed by the first
+  author's family name and the publicacion year. This way, the thesis written by John Doe in the
+year 2020 will be referred as 'Thesis:Doe2020'.
 
 - The papers' list found in the file 'HISTORY.md' is a tentative guide. Week by week the file has
-  to be updated to keep track of the real reading record.
+  to be updated if additional papers were read.
 
-- This is a private repository. Don't be shy to share ideas and doubts either in the issues board or
+- Don't be shy to share ideas and doubts either in the issues board or
   in the discussions area. It is good to have a written history of the learning process.
 
-- Include the bibtex bibliography reference of every read paper in the file 'bibliography.tex'.
-
-- After reading a paper, use the file 'NOTES.md' to write a three lines abstract togeter with some useful thoughts for your future you. Write also some keywords to tag the paper.
+- After reading a document, open a new issue in this repository with the its keyword as title
+  and three or four lines giving a breaf summary the paper with those ideas you want to highlight.
+After that, tag the issue with those words that describe the document.
 
 
 ## Tips for the young researcher.
