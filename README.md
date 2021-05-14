@@ -1,7 +1,7 @@
 # Study Group
 
 The goal is reading, word by word, more than 60 papers in three
-months about predicting the binding free energy of interacting biomolecules by means of the MM/GBSA method.
+months about predicting the binding free energy of interacting molecules by means of the MM/GBSA method.
 
 Some rules to be all on the same page:
 
