@@ -116,4 +116,7 @@ Predicting binding free energies and poses of protein–RNA complexes." Rna 24, 
 ## 8th week
 
 
+## Other papers to be added to this list
+
+- [Pang2013Poisson-Boltzmann_cs] Pang, Xiaodong, and Huan-Xiang Zhou. “Poisson-Boltzmann Calculations: Van Der Waals or Molecular Surface?” Communications in Computational Physics 13, no. 1 (2013): 1–12. https://doi.org/10.4208/cicp.270711.140911s.
 
